@@ -1,6 +1,11 @@
-# bellabeat-Track-A
-Google Data Analytics Capstone – Bellabeat Case Study (Track A)
-bellabeat-trackA/
+# Bellabeat Case Study – Track A
+### Google Data Analytics Capstone Project
+
+Bellabeat is a wellness technology company that creates smart products designed to help women track their daily habits. This project analyzes FitBit fitness tracker data to uncover patterns in user activity, sleep, and calorie expenditure. The goal is to generate insights that can support Bellabeat’s marketing strategy and product development decisions.
+
+
+## 📁 Project Structure
+```
 │
 ├── data/
 │   ├── raw_data/
@@ -17,3 +22,4 @@ bellabeat-trackA/
 │   └── sleep_patterns.png
 │
 └── README.md
+```
